@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Campus Connect</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="default_web_client_id">331764489206-rkhamudcncp2pal742a3tejdb28ekcuj.apps.googleusercontent.com</string>
+</resources>

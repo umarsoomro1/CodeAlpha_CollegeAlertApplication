@@ -1,0 +1,17 @@
+# Android Studio build files
+/.idea/
+*.iml
+/build/
+/gradle/
+/local.properties
+/.gradle/
+/captures/
+
+# Firebase sensitive file
+app/google-services.json
+
+# Other temporary files
+*.log
+*.apk
+*.ap_
+*.aab

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331764489206",
+    "project_id": "campus-connect-dadc4",
+    "storage_bucket": "campus-connect-dadc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331764489206:android:5b8434a461430c0a8e85d7",
+        "android_client_info": {
+          "package_name": "com.campusconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMlV2jFps43m9WP4gFKkmGSwbQ8fnkvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

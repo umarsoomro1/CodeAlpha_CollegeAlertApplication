@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3F51B5</color> <!-- Indigo -->
+    <color name="primary_variant">#303F9F</color> <!-- Darker Indigo -->
+    <color name="secondary">#FF4081</color> <!-- Pink accent -->
+    <color name="background">#FFFFFF</color> <!-- White -->
+    <color name="surface">#F5F5F5</color> <!-- Light Gray -->
+    <color name="text_primary">#212121</color> <!-- Dark Gray -->
+    <color name="text_secondary">#757575</color> <!-- Medium Gray -->
+</resources>
